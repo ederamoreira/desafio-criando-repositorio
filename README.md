@@ -15,13 +15,13 @@
 
 ## Módulo II - HTML/CSS3
 
-- Introdução a criação de websites com HTML5 e CSS3
-- Desafio de projeto - Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions
+- Introdução a criação de websites com HTML5 e CSS3 :white_check_mark:
+- Desafio de projeto - Desenvolvendo um menu hamburguer e morphing menu com CSS Transitions :white_check_mark:
 
 ## Módulo III - Javascript
 
-- Curso - IDE Instalação e configuração (Visual Studio Code)
-- Curso - Introdução ao JavaScript
+- Curso - IDE Instalação e configuração (Visual Studio Code) :white_check_mark:
+- Curso - Introdução ao JavaScript :white_check_mark:
 - Curso - Sintaxe Básica em JavaScript
 - Custo - Sintaxe e Operadores
 - Curso - Variáveis e Tipos
