@@ -22,10 +22,10 @@
 
 - Curso - IDE Instalação e configuração (Visual Studio Code) :white_check_mark:
 - Curso - Introdução ao JavaScript :white_check_mark:
-- Curso - Sintaxe Básica em JavaScript
-- Custo - Sintaxe e Operadores
-- Curso - Variáveis e Tipos
-- Curso - Debugging e Error Handling
+- Curso - Sintaxe Básica em JavaScript :white_check_mark:
+- Custo - Sintaxe e Operadores :white_check_mark:
+- Curso - Variáveis e Tipos :white_check_mark:
+- Curso - Debugging e Error Handling :white_check_mark:
 - Curso Javascript Assíncrono
 - Curso Orientação a objetos
 - Curso a D.O.M com JavaScript
